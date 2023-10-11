@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace QLNS_DuocPhamLocifa.DataAccessLayer
 {
+    // DAL Nhân viên
     public class NhanVienDAL
     {
         private string constr = ConfigurationManager.ConnectionStrings["connectionString"].ConnectionString;

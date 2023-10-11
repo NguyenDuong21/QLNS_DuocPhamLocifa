@@ -54,6 +54,7 @@ namespace QLNS_DuocPhamLocifa.BusinessLogicLayer
 
         public DataTable layDSNhanVien()
         {
+            // lấy danh sách nhân viên
             return nhanVienDAL.layDSNhanVien();
         }
     }
