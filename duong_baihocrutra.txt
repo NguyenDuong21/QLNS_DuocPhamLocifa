@@ -1,6 +1,0 @@
-- Qua bài học môn nhập môn công nghệ phần mềm chiều t3 ngày 18/10.
-- Em rút ra được thêm những phương pháp sử  dụng git và svn.
-- Đối với việc trình bày slide, cần chú ý cách đánh số trang
-- Trong slide cần ghi nguồn rõ ràng.
-- Cần chỉ ra rõ ràng phương pháp cụ thể  áp dụng các git, github hoặc SVN trong dự án của nhóm như thế nào.
-- Với phần trình bày cần demo phương pháp sử  dụng git trong dự án của nhóm
