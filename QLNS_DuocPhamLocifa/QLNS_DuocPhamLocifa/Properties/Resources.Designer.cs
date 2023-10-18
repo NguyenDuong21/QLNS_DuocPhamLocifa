@@ -143,11 +143,6 @@ namespace QLNS_DuocPhamLocifa.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap z4186256687064_db327e1e095c4ed83530ed14352613ec {
-            get {
-                object obj = ResourceManager.GetObject("z4186256687064_db327e1e095c4ed83530ed14352613ec", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+        
     }
 }
