@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace QLNS_DuocPhamLocifa.DataAccessLayer
 {
+    /*d*/
     public class DoiMatKhauDAL
     {
         private string constr = ConfigurationManager.ConnectionStrings["connectionString"].ConnectionString;
