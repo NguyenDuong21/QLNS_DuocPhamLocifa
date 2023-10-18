@@ -34,3 +34,7 @@ C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPh
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CopyComplete
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.dll
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.pdb

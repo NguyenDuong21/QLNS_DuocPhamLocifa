@@ -52,3 +52,7 @@ C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPh
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\obj\Debug\UnitTestAcount.csproj.CopyComplete
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\obj\Debug\UnitTestAcount.csproj.AssemblyReference.cache
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\obj\Debug\UnitTestAcount.csproj.CoreCompileInputs.cache
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\obj\Debug\UnitTestAcount.dll
+C:\Users\FPT SHOP\Desktop\New folder\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestAcount\obj\Debug\UnitTestAcount.pdb
