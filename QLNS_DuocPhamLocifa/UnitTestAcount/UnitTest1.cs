@@ -11,6 +11,7 @@ namespace UnitTestAcount
     [TestClass]
     public class UnitTest1
     {
+        /* test vvv */
         private string constr = @"Data Source=DESKTOP-LNGJ4BJ;Initial Catalog=QuanLyNhanVien;Integrated Security=True";
         TaiKhoanDAL c = new TaiKhoanDAL();
         [TestMethod]
