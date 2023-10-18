@@ -9,6 +9,7 @@ using System.Data;
 namespace UnitTestAcount
 {
     [TestClass]
+    /* test */
     public class UnitTest1
     {
         private string constr = @"Data Source=DESKTOP-LNGJ4BJ;Initial Catalog=QuanLyNhanVien;Integrated Security=True";
