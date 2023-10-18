@@ -1,0 +1,15 @@
+﻿TRANG
+
+Đầu tiên Clone project về máy
+git clone https://github.com/NguyenDuong21/QLNS_DuocPhamLocifa.git
+Thiết kế theo phân công
+Khi code xong push code lên nhánh của bản thân theo hướng dẫn:
+Chuyển từ nhánh gốc ->  nhánh bản thân
+git checkout <tên nhánh muốn chuyển sang>
+VD: git checkout raiduong
+ Muốn push code mới.
+git add .
+git commit -m “nội dung commit + chức năng + form”
+VD: git commit -m “feature add Nhan vien” trong trường hợp có thay đổi nội dung ghi “Edit feature Add Nhan vien”
+-        git push origin <tên nhánh> 
+VD: git push origin raiduong
