@@ -1,0 +1,10 @@
+- Git là phần mềm quản lí mã nguồn mở theo giấy phép công cộng GPL2
+- GIT có khả năng chạy trên nhiều hệ điều hành khác nhau như Linus, Windows, Mac Osx,..
+- Github Là một dịch vụ lưu trữ dựa trên web cho các dự án phát triển phần mềm, Sử dụng các hệ thống kiểm soát phiên bản Git.
+- Các lệnh github cơ bản: 
++ git branch: Liệt kê tất cả các nhánh trong repository
++git pull [remote] [branch]: lấy các thay đổi mới nhất từ repository trên GitHub 
++git push [remote] [branch]: đẩy các commit
++git checkout [branch]: Chuyển đổi sang 1 nhánh khác mới nhất lên repository trên GitHub
+- Subversion(SVN) là 1 phần mềm mã nguồn mở dùng để quản lí và kiểm tra các phiên bản mã nguồn khác nhau trong quá trình phát triển phần mềm
+- Cách sử dụng Github
