@@ -2,3 +2,4 @@
 - Cách sử dụng git
 - Nắm chắc được thông tin về Git, Github, SVN
 - Các thành viên trong dự án phải nắm chắc kiến thức và vận dụng 
+- Hoàn thành các phần bài tập còn đang thiếu
