@@ -1,0 +1,5 @@
+Nhung gi hoc duoc hom nay
+- git
+ - github
+ - svn 
+ cac lenh git co ban
